@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: 'none',
           }}
         >
-          {siteTitle}
+          {"ssssssssssssssssssssssssssssssssssssssssssss"}
         </Link>
       </h1>
     </div>
